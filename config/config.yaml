@@ -1,0 +1,14 @@
+artifacts_root : artifacts
+# The root directory where all artifacts will be stored
+
+data_ingestion:
+  root_dir: artifacts/data_ingestion  # The root directory for data ingestion artifacts
+  source_url: https://github.com/sanjay11bh/data/raw/main/churn_data.zip # The URL of the source data repository
+  local_data_file: artifacts/data_ingestion/data.zip  # The local path where the data file will be stored
+  unzip_dir: artifacts/data_ingestion  # The directory where the data will be unzipped
+
+data_validation:
+  root_dir: artifacts/data_validation  # The root directory for data validation artifacts
+  unzip_data_dir : artifacts/data_ingestion/churn_data/Churn_Modelling (1).csv  # The directory where the unzipped data will be stored  
+  STATUS_FILE : artifacts/data_validation/status.yaml  # The path to the status file for data validation
+  
