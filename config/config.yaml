@@ -9,6 +9,18 @@ data_ingestion:
 
 data_validation:
   root_dir: artifacts/data_validation  # The root directory for data validation artifacts
-  unzip_data_dir : artifacts/data_ingestion/churn_data/Churn_Modelling (1).csv  # The directory where the unzipped data will be stored  
+  unzip_data_dir : artifacts/data_ingestion/churn_data/Churn_Modelling (1).csv # The directory where the unzipped data will be stored  
   STATUS_FILE : artifacts/data_validation/status.yaml  # The path to the status file for data validation
+
+data_transformation:
+  root_dir: artifacts/data_transformation
+  data_path: artifacts/data_ingestion/churn_data/Churn_Modelling (1).csv
+
+model_trainer:
+  root_dir: artifacts/model_trainer
+  train_data_path: artifacts/data_transformation/test.csv
+  test_data_path: artifacts/data_transformation/test.csv
+  model_name: model.joblib
+
+
   

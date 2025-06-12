@@ -171,3 +171,560 @@ Source-Age: 0
  ]
 [2025-06-10 15:45:07,367: INFO: data_ingestion: Extracted zip file to artifacts/data_ingestion]
 [2025-06-10 15:45:07,367: INFO: main: >>>>>> stage Data Ingestion Stage completed <<<<<<]
+[2025-06-11 16:22:26,314: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-06-11 16:22:26,356: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-06-11 16:22:26,388: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-06-11 16:22:26,404: INFO: common: created directory at: artifacts]
+[2025-06-11 16:22:26,407: INFO: common: created directory at: artifacts/data_validation]
+[2025-06-11 17:05:59,033: INFO: main: >>>>>> stage Data Ingestion Stage started <<<<<<]
+[2025-06-11 17:05:59,071: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-06-11 17:05:59,087: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-06-11 17:05:59,100: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-06-11 17:05:59,106: INFO: common: created directory at: artifacts]
+[2025-06-11 17:05:59,106: INFO: common: created directory at: artifacts/data_ingestion]
+[2025-06-11 17:06:01,137: INFO: data_ingestion: artifacts/data_ingestion/data.zip downloaded with following info: 
+Connection: close
+Content-Length: 268038
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "9c002cf34d808ddea007489b47eb0a21b85050243bd6b36b85cb4d8f208b7fff"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: B524:1DB88:13ED4B:2788F1:68496A1E
+Accept-Ranges: bytes
+Date: Wed, 11 Jun 2025 11:35:58 GMT
+Via: 1.1 varnish
+X-Served-By: cache-del21738-DEL
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1749641758.469268,VS0,VE376
+Vary: Authorization,Accept-Encoding
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 128b48fd3ad1e8a2f495b73cd322fe109d063917
+Expires: Wed, 11 Jun 2025 11:40:58 GMT
+Source-Age: 0
+
+ ]
+[2025-06-11 17:06:01,203: INFO: data_ingestion: Extracted zip file to artifacts/data_ingestion]
+[2025-06-11 17:06:01,207: INFO: main: >>>>>> stage Data Ingestion Stage completed <<<<<<]
+[2025-06-11 17:21:49,735: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-06-11 17:21:49,743: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-06-11 17:21:49,751: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-06-11 17:21:49,761: INFO: common: created directory at: artifacts]
+[2025-06-11 17:21:49,765: INFO: common: created directory at: artifacts/data_validation]
+[2025-06-11 17:24:50,414: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-06-11 17:24:50,420: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-06-11 17:24:50,435: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-06-11 17:24:50,437: INFO: common: created directory at: artifacts]
+[2025-06-11 17:24:50,437: INFO: common: created directory at: artifacts/data_validation]
+[2025-06-11 17:25:22,783: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-06-11 17:25:22,783: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-06-11 17:25:22,797: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-06-11 17:25:22,800: INFO: common: created directory at: artifacts]
+[2025-06-11 17:25:22,802: INFO: common: created directory at: artifacts/data_validation]
+[2025-06-11 17:29:20,823: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-06-11 17:29:20,830: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-06-11 17:29:20,837: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-06-11 17:29:20,837: INFO: common: created directory at: artifacts]
+[2025-06-11 17:29:20,846: INFO: common: created directory at: artifacts/data_validation]
+[2025-06-11 17:39:34,143: INFO: main: >>>>>> stage Data Ingestion Stage started <<<<<<]
+[2025-06-11 17:39:34,143: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-06-11 17:39:34,150: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-06-11 17:39:34,154: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-06-11 17:39:34,159: INFO: common: created directory at: artifacts]
+[2025-06-11 17:39:34,159: INFO: common: created directory at: artifacts/data_ingestion]
+[2025-06-11 17:39:34,159: INFO: data_ingestion: File already exists at artifacts/data_ingestion/data.zip of size ~ 262 KB]
+[2025-06-11 17:39:34,180: INFO: data_ingestion: Extracted zip file to artifacts/data_ingestion]
+[2025-06-11 17:39:34,184: INFO: main: >>>>>> stage Data Ingestion Stage completed <<<<<<]
+[2025-06-11 17:39:34,184: INFO: main: >>>>>> stage Data Validation Stage started <<<<<<]
+[2025-06-11 17:39:34,184: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-06-11 17:39:34,192: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-06-11 17:39:34,200: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-06-11 17:39:34,200: INFO: common: created directory at: artifacts]
+[2025-06-11 17:39:34,200: ERROR: main: 'ConfigurationManager' object has no attribute 'get_data_validation_config']
+Traceback (most recent call last):
+  File "C:\Users\vaibh\OneDrive\Desktop\full_model\main.py", line 21, in <module>
+    obj.main()
+  File "C:\Users\vaibh\OneDrive\Desktop\full_model\src\mlProject\pipeline\stage_02_data_validation.py", line 12, in main
+    data_validation_config = config.get_data_validation_config()
+AttributeError: 'ConfigurationManager' object has no attribute 'get_data_validation_config'
+[2025-06-11 17:40:53,060: INFO: main: >>>>>> stage Data Ingestion Stage started <<<<<<]
+[2025-06-11 17:40:53,060: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-06-11 17:40:53,072: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-06-11 17:40:53,090: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-06-11 17:40:53,094: INFO: common: created directory at: artifacts]
+[2025-06-11 17:40:53,094: INFO: common: created directory at: artifacts/data_ingestion]
+[2025-06-11 17:40:53,111: INFO: data_ingestion: File already exists at artifacts/data_ingestion/data.zip of size ~ 262 KB]
+[2025-06-11 17:40:53,142: INFO: data_ingestion: Extracted zip file to artifacts/data_ingestion]
+[2025-06-11 17:40:53,142: INFO: main: >>>>>> stage Data Ingestion Stage completed <<<<<<]
+[2025-06-11 17:40:53,150: INFO: main: >>>>>> stage Data Validation Stage started <<<<<<]
+[2025-06-11 17:40:53,158: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-06-11 17:40:53,158: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-06-11 17:40:53,158: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-06-11 17:40:53,158: INFO: common: created directory at: artifacts]
+[2025-06-11 17:40:53,166: ERROR: main: 'ConfigurationManager' object has no attribute 'get_data_validation_config']
+Traceback (most recent call last):
+  File "C:\Users\vaibh\OneDrive\Desktop\full_model\main.py", line 21, in <module>
+    obj.main()
+  File "C:\Users\vaibh\OneDrive\Desktop\full_model\src\mlProject\pipeline\stage_02_data_validation.py", line 12, in main
+    data_validation_config = config.get_data_validation_config()
+AttributeError: 'ConfigurationManager' object has no attribute 'get_data_validation_config'
+[2025-06-11 17:41:36,844: INFO: main: >>>>>> stage Data Ingestion Stage started <<<<<<]
+[2025-06-11 17:41:36,860: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-06-11 17:41:36,864: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-06-11 17:41:36,872: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-06-11 17:41:36,876: INFO: common: created directory at: artifacts]
+[2025-06-11 17:41:36,876: INFO: common: created directory at: artifacts/data_ingestion]
+[2025-06-11 17:41:36,879: INFO: data_ingestion: File already exists at artifacts/data_ingestion/data.zip of size ~ 262 KB]
+[2025-06-11 17:41:36,890: INFO: data_ingestion: Extracted zip file to artifacts/data_ingestion]
+[2025-06-11 17:41:36,890: INFO: main: >>>>>> stage Data Ingestion Stage completed <<<<<<]
+[2025-06-11 17:41:36,890: INFO: main: >>>>>> stage Data Validation Stage started <<<<<<]
+[2025-06-11 17:41:36,907: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-06-11 17:41:36,907: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-06-11 17:41:36,916: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-06-11 17:41:36,917: INFO: common: created directory at: artifacts]
+[2025-06-11 17:41:36,918: INFO: common: created directory at: artifacts/data_validation]
+[2025-06-11 17:41:37,041: INFO: main: >>>>>> stage Data Validation Stage completed <<<<<<
+
+x==========x]
+[2025-06-11 19:07:48,377: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-06-11 19:07:48,409: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-06-11 19:07:48,412: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-06-11 19:09:57,665: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-06-11 19:09:57,665: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-06-11 19:09:57,677: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-06-11 19:10:05,222: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-06-11 19:10:05,225: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-06-11 19:10:05,230: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-06-11 19:13:33,182: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-06-11 19:13:33,185: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-06-11 19:13:33,191: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-06-11 19:13:33,196: INFO: common: created directory at: artifacts]
+[2025-06-11 19:13:33,198: INFO: common: created directory at: artifacts/data_transformation]
+[2025-06-11 19:17:43,762: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-06-11 19:17:43,765: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-06-11 19:17:43,770: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-06-11 19:17:43,772: INFO: common: created directory at: artifacts]
+[2025-06-11 19:17:43,774: INFO: common: created directory at: artifacts/data_transformation]
+[2025-06-11 19:18:43,710: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-06-11 19:18:43,714: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-06-11 19:18:43,719: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-06-11 19:18:43,721: INFO: common: created directory at: artifacts]
+[2025-06-11 19:18:43,723: INFO: common: created directory at: artifacts/data_transformation]
+[2025-06-11 19:19:53,721: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-06-11 19:19:53,725: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-06-11 19:19:53,730: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-06-11 19:19:53,732: INFO: common: created directory at: artifacts]
+[2025-06-11 19:19:53,733: INFO: common: created directory at: artifacts/data_transformation]
+[2025-06-11 19:55:52,924: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-06-11 19:55:52,929: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-06-11 19:55:52,937: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-06-11 19:55:52,940: INFO: common: created directory at: artifacts]
+[2025-06-11 19:55:52,943: INFO: common: created directory at: artifacts/data_transformation]
+[2025-06-11 19:55:59,262: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-06-11 19:55:59,265: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-06-11 19:55:59,270: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-06-11 19:55:59,272: INFO: common: created directory at: artifacts]
+[2025-06-11 19:55:59,274: INFO: common: created directory at: artifacts/data_transformation]
+[2025-06-11 19:55:59,489: INFO: 3576172565: Data split into train and test sets.]
+[2025-06-11 19:55:59,489: INFO: 3576172565: (8000, 14)]
+[2025-06-11 19:55:59,489: INFO: 3576172565: (2000, 14)]
+[2025-06-11 20:18:17,231: INFO: main: >>>>>> stage Data Ingestion Stage started <<<<<<]
+[2025-06-11 20:18:17,246: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-06-11 20:18:17,246: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-06-11 20:18:17,253: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-06-11 20:18:17,254: INFO: common: created directory at: artifacts]
+[2025-06-11 20:18:17,254: INFO: common: created directory at: artifacts/data_ingestion]
+[2025-06-11 20:18:17,256: INFO: data_ingestion: File already exists at artifacts/data_ingestion/data.zip of size ~ 262 KB]
+[2025-06-11 20:18:17,296: INFO: data_ingestion: Extracted zip file to artifacts/data_ingestion]
+[2025-06-11 20:18:17,296: INFO: main: >>>>>> stage Data Ingestion Stage completed <<<<<<]
+[2025-06-11 20:18:17,296: INFO: main: >>>>>> stage Data Validation Stage started <<<<<<]
+[2025-06-11 20:18:17,296: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-06-11 20:18:17,296: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-06-11 20:18:17,310: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-06-11 20:18:17,311: INFO: common: created directory at: artifacts]
+[2025-06-11 20:18:17,312: INFO: common: created directory at: artifacts/data_validation]
+[2025-06-11 20:18:17,351: INFO: main: >>>>>> stage Data Validation Stage completed <<<<<<
+
+x==========x]
+[2025-06-12 12:05:56,591: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-06-12 12:05:56,609: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-06-12 12:05:56,625: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-06-12 12:05:56,625: INFO: common: created directory at: artifacts]
+[2025-06-12 12:06:28,871: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-06-12 12:06:28,874: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-06-12 12:06:28,880: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-06-12 12:06:28,882: INFO: common: created directory at: artifacts]
+[2025-06-12 12:07:11,451: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-06-12 12:07:11,455: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-06-12 12:07:11,460: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-06-12 12:07:11,462: INFO: common: created directory at: artifacts]
+[2025-06-12 12:10:41,644: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-06-12 12:10:41,644: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-06-12 12:10:41,656: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-06-12 12:10:41,658: INFO: common: created directory at: artifacts]
+[2025-06-12 12:12:22,593: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-06-12 12:12:22,595: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-06-12 12:12:22,601: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-06-12 12:12:22,603: INFO: common: created directory at: artifacts]
+[2025-06-12 12:13:59,059: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-06-12 12:13:59,062: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-06-12 12:13:59,067: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-06-12 12:13:59,070: INFO: common: created directory at: artifacts]
+[2025-06-12 12:13:59,072: INFO: common: created directory at: artifacts/model_trainer]
+[2025-06-12 12:15:04,088: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-06-12 12:15:04,088: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-06-12 12:15:04,088: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-06-12 12:15:04,103: INFO: common: created directory at: artifacts]
+[2025-06-12 12:15:04,106: INFO: common: created directory at: artifacts/model_trainer]
+[2025-06-12 12:20:48,550: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-06-12 12:20:48,559: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-06-12 12:20:48,563: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-06-12 12:20:48,566: INFO: common: created directory at: artifacts]
+[2025-06-12 12:20:48,569: INFO: common: created directory at: artifacts/data_transformation]
+[2025-06-12 12:20:48,665: INFO: 3710139276: Data loaded successfully.]
+[2025-06-12 12:20:48,724: INFO: 3710139276: Encoded column: Surname]
+[2025-06-12 12:20:48,729: INFO: 3710139276: Encoded column: Geography]
+[2025-06-12 12:20:48,732: INFO: 3710139276: Encoded column: Gender]
+[2025-06-12 12:20:48,777: INFO: 3710139276: Numerical features scaled.]
+[2025-06-12 12:20:48,972: INFO: 3710139276: Data split into train and test sets.]
+[2025-06-12 12:20:48,972: INFO: 3710139276: Train shape: (8000, 14)]
+[2025-06-12 12:20:48,972: INFO: 3710139276: Test shape: (2000, 14)]
+[2025-06-12 12:21:29,159: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-06-12 12:21:29,164: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-06-12 12:21:29,170: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-06-12 12:21:29,172: INFO: common: created directory at: artifacts]
+[2025-06-12 12:21:29,175: INFO: common: created directory at: artifacts/model_trainer]
+[2025-06-12 13:12:30,694: INFO: main: >>>>>> stage Data Ingestion Stage started <<<<<<]
+[2025-06-12 13:12:30,710: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-06-12 13:12:30,710: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-06-12 13:12:30,710: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-06-12 13:12:30,710: INFO: common: created directory at: artifacts]
+[2025-06-12 13:12:30,726: INFO: common: created directory at: artifacts/data_ingestion]
+[2025-06-12 13:12:30,727: INFO: data_ingestion: File already exists at artifacts/data_ingestion/data.zip of size ~ 262 KB]
+[2025-06-12 13:12:30,851: INFO: data_ingestion: Extracted zip file to artifacts/data_ingestion]
+[2025-06-12 13:12:30,851: INFO: main: >>>>>> stage Data Ingestion Stage completed <<<<<<]
+[2025-06-12 13:12:30,851: INFO: main: >>>>>> stage Data Validation Stage started <<<<<<]
+[2025-06-12 13:12:30,851: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-06-12 13:12:30,864: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-06-12 13:12:30,864: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-06-12 13:12:30,871: INFO: common: created directory at: artifacts]
+[2025-06-12 13:12:30,871: INFO: common: created directory at: artifacts/data_validation]
+[2025-06-12 13:12:30,950: INFO: main: >>>>>> stage Data Validation Stage completed <<<<<<
+
+x==========x]
+[2025-06-12 13:12:30,950: INFO: main: >>>>>> stage Data Transformation Stage started <<<<<<]
+[2025-06-12 13:12:30,960: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-06-12 13:12:30,960: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-06-12 13:12:30,969: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-06-12 13:12:30,969: INFO: common: created directory at: artifacts]
+[2025-06-12 13:12:30,969: INFO: common: created directory at: artifacts/data_transformation]
+[2025-06-12 13:12:30,969: ERROR: main: name 'DataTransformationconfig' is not defined]
+Traceback (most recent call last):
+  File "C:\Users\vaibh\OneDrive\Desktop\full_model\main.py", line 34, in <module>
+    obj.main()
+  File "C:\Users\vaibh\OneDrive\Desktop\full_model\src\mlProject\pipeline\stage_03_data_transforamation.py", line 13, in main
+    data_transformation_config = config.get_data_transformation_config()
+  File "C:\Users\vaibh\OneDrive\Desktop\full_model\src\mlProject\config\configuration.py", line 57, in get_data_transformation_config
+    data_transformation_config = DataTransformationconfig(
+NameError: name 'DataTransformationconfig' is not defined
+[2025-06-12 13:14:13,650: INFO: main: >>>>>> stage Data Ingestion Stage started <<<<<<]
+[2025-06-12 13:14:13,650: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-06-12 13:14:13,662: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-06-12 13:14:13,669: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-06-12 13:14:13,671: INFO: common: created directory at: artifacts]
+[2025-06-12 13:14:13,671: INFO: common: created directory at: artifacts/data_ingestion]
+[2025-06-12 13:14:13,671: INFO: data_ingestion: File already exists at artifacts/data_ingestion/data.zip of size ~ 262 KB]
+[2025-06-12 13:14:13,684: INFO: data_ingestion: Extracted zip file to artifacts/data_ingestion]
+[2025-06-12 13:14:13,684: INFO: main: >>>>>> stage Data Ingestion Stage completed <<<<<<]
+[2025-06-12 13:14:13,684: INFO: main: >>>>>> stage Data Validation Stage started <<<<<<]
+[2025-06-12 13:14:13,707: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-06-12 13:14:13,709: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-06-12 13:14:13,713: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-06-12 13:14:13,715: INFO: common: created directory at: artifacts]
+[2025-06-12 13:14:13,718: INFO: common: created directory at: artifacts/data_validation]
+[2025-06-12 13:14:13,784: INFO: main: >>>>>> stage Data Validation Stage completed <<<<<<
+
+x==========x]
+[2025-06-12 13:14:13,784: INFO: main: >>>>>> stage Data Transformation Stage started <<<<<<]
+[2025-06-12 13:14:13,784: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-06-12 13:14:13,795: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-06-12 13:14:13,795: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-06-12 13:14:13,795: INFO: common: created directory at: artifacts]
+[2025-06-12 13:14:13,803: INFO: common: created directory at: artifacts/data_transformation]
+[2025-06-12 13:14:13,803: ERROR: main: name 'DataTransformationconfig' is not defined]
+Traceback (most recent call last):
+  File "C:\Users\vaibh\OneDrive\Desktop\full_model\main.py", line 34, in <module>
+    obj.main()
+  File "C:\Users\vaibh\OneDrive\Desktop\full_model\src\mlProject\pipeline\stage_03_data_transforamation.py", line 13, in main
+    data_transformation_config = config.get_data_transformation_config()
+  File "C:\Users\vaibh\OneDrive\Desktop\full_model\src\mlProject\config\configuration.py", line 57, in get_data_transformation_config
+    data_transformation_config = DataTransformationconfig(
+NameError: name 'DataTransformationconfig' is not defined
+[2025-06-12 13:14:40,336: INFO: main: >>>>>> stage Data Ingestion Stage started <<<<<<]
+[2025-06-12 13:14:40,336: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-06-12 13:14:40,351: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-06-12 13:14:40,354: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-06-12 13:14:40,440: INFO: common: created directory at: artifacts]
+[2025-06-12 13:14:40,440: INFO: common: created directory at: artifacts/data_ingestion]
+[2025-06-12 13:14:40,440: INFO: data_ingestion: File already exists at artifacts/data_ingestion/data.zip of size ~ 262 KB]
+[2025-06-12 13:14:40,472: INFO: data_ingestion: Extracted zip file to artifacts/data_ingestion]
+[2025-06-12 13:14:40,487: INFO: main: >>>>>> stage Data Ingestion Stage completed <<<<<<]
+[2025-06-12 13:14:40,515: INFO: main: >>>>>> stage Data Validation Stage started <<<<<<]
+[2025-06-12 13:14:40,523: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-06-12 13:14:40,533: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-06-12 13:14:40,573: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-06-12 13:14:40,573: INFO: common: created directory at: artifacts]
+[2025-06-12 13:14:40,573: INFO: common: created directory at: artifacts/data_validation]
+[2025-06-12 13:14:40,667: INFO: main: >>>>>> stage Data Validation Stage completed <<<<<<
+
+x==========x]
+[2025-06-12 13:14:40,667: INFO: main: >>>>>> stage Data Transformation Stage started <<<<<<]
+[2025-06-12 13:14:40,678: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-06-12 13:14:40,685: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-06-12 13:14:40,685: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-06-12 13:14:40,685: INFO: common: created directory at: artifacts]
+[2025-06-12 13:14:40,685: INFO: common: created directory at: artifacts/data_transformation]
+[2025-06-12 13:14:40,685: ERROR: main: name 'DataTransformationconfig' is not defined]
+Traceback (most recent call last):
+  File "C:\Users\vaibh\OneDrive\Desktop\full_model\main.py", line 34, in <module>
+    obj.main()
+  File "C:\Users\vaibh\OneDrive\Desktop\full_model\src\mlProject\pipeline\stage_03_data_transforamation.py", line 13, in main
+    data_transformation_config = config.get_data_transformation_config()
+  File "C:\Users\vaibh\OneDrive\Desktop\full_model\src\mlProject\config\configuration.py", line 57, in get_data_transformation_config
+    data_transformation_config = DataTransformationconfig(
+NameError: name 'DataTransformationconfig' is not defined
+[2025-06-12 13:16:22,452: INFO: main: >>>>>> stage Data Ingestion Stage started <<<<<<]
+[2025-06-12 13:16:22,467: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-06-12 13:16:22,467: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-06-12 13:16:22,467: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-06-12 13:16:22,483: INFO: common: created directory at: artifacts]
+[2025-06-12 13:16:22,483: INFO: common: created directory at: artifacts/data_ingestion]
+[2025-06-12 13:16:22,483: INFO: data_ingestion: File already exists at artifacts/data_ingestion/data.zip of size ~ 262 KB]
+[2025-06-12 13:16:22,501: INFO: data_ingestion: Extracted zip file to artifacts/data_ingestion]
+[2025-06-12 13:16:22,507: INFO: main: >>>>>> stage Data Ingestion Stage completed <<<<<<]
+[2025-06-12 13:16:22,510: INFO: main: >>>>>> stage Data Validation Stage started <<<<<<]
+[2025-06-12 13:16:22,526: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-06-12 13:16:22,526: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-06-12 13:16:22,537: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-06-12 13:16:22,537: INFO: common: created directory at: artifacts]
+[2025-06-12 13:16:22,537: INFO: common: created directory at: artifacts/data_validation]
+[2025-06-12 13:16:22,608: INFO: main: >>>>>> stage Data Validation Stage completed <<<<<<
+
+x==========x]
+[2025-06-12 13:16:22,608: INFO: main: >>>>>> stage Data Transformation Stage started <<<<<<]
+[2025-06-12 13:16:22,620: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-06-12 13:16:22,629: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-06-12 13:16:22,635: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-06-12 13:16:22,637: INFO: common: created directory at: artifacts]
+[2025-06-12 13:16:22,637: INFO: common: created directory at: artifacts/data_transformation]
+[2025-06-12 13:16:22,637: ERROR: main: __init__() got an unexpected keyword argument 'config']
+Traceback (most recent call last):
+  File "C:\Users\vaibh\OneDrive\Desktop\full_model\main.py", line 34, in <module>
+    obj.main()
+  File "C:\Users\vaibh\OneDrive\Desktop\full_model\src\mlProject\pipeline\stage_03_data_transforamation.py", line 14, in main
+    data_transformation = DataTransformationConfig(config=data_transformation_config)
+TypeError: __init__() got an unexpected keyword argument 'config'
+[2025-06-12 13:17:24,907: INFO: main: >>>>>> stage Data Ingestion Stage started <<<<<<]
+[2025-06-12 13:17:24,923: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-06-12 13:17:24,932: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-06-12 13:17:24,938: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-06-12 13:17:24,938: INFO: common: created directory at: artifacts]
+[2025-06-12 13:17:24,940: INFO: common: created directory at: artifacts/data_ingestion]
+[2025-06-12 13:17:24,940: INFO: data_ingestion: File already exists at artifacts/data_ingestion/data.zip of size ~ 262 KB]
+[2025-06-12 13:17:24,952: INFO: data_ingestion: Extracted zip file to artifacts/data_ingestion]
+[2025-06-12 13:17:24,952: INFO: main: >>>>>> stage Data Ingestion Stage completed <<<<<<]
+[2025-06-12 13:17:24,952: INFO: main: >>>>>> stage Data Validation Stage started <<<<<<]
+[2025-06-12 13:17:24,969: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-06-12 13:17:24,978: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-06-12 13:17:24,978: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-06-12 13:17:24,978: INFO: common: created directory at: artifacts]
+[2025-06-12 13:17:24,986: INFO: common: created directory at: artifacts/data_validation]
+[2025-06-12 13:17:25,052: INFO: main: >>>>>> stage Data Validation Stage completed <<<<<<
+
+x==========x]
+[2025-06-12 13:17:25,052: INFO: main: >>>>>> stage Data Transformation Stage started <<<<<<]
+[2025-06-12 13:17:25,052: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-06-12 13:17:25,062: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-06-12 13:17:25,064: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-06-12 13:17:25,064: INFO: common: created directory at: artifacts]
+[2025-06-12 13:17:25,071: INFO: common: created directory at: artifacts/data_transformation]
+[2025-06-12 13:17:25,071: ERROR: main: __init__() got an unexpected keyword argument 'config']
+Traceback (most recent call last):
+  File "C:\Users\vaibh\OneDrive\Desktop\full_model\main.py", line 34, in <module>
+    obj.main()
+  File "C:\Users\vaibh\OneDrive\Desktop\full_model\src\mlProject\pipeline\stage_03_data_transforamation.py", line 14, in main
+    data_transformation = DataTransformationConfig(config=data_transformation_config)
+TypeError: __init__() got an unexpected keyword argument 'config'
+[2025-06-12 13:46:59,033: INFO: main: >>>>>> stage Data Ingestion Stage started <<<<<<]
+[2025-06-12 13:46:59,042: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-06-12 13:46:59,043: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-06-12 13:46:59,043: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-06-12 13:46:59,043: INFO: common: created directory at: artifacts]
+[2025-06-12 13:46:59,049: INFO: common: created directory at: artifacts/data_ingestion]
+[2025-06-12 13:46:59,049: INFO: data_ingestion: File already exists at artifacts/data_ingestion/data.zip of size ~ 262 KB]
+[2025-06-12 13:46:59,065: INFO: data_ingestion: Extracted zip file to artifacts/data_ingestion]
+[2025-06-12 13:46:59,065: INFO: main: >>>>>> stage Data Ingestion Stage completed <<<<<<]
+[2025-06-12 13:46:59,065: INFO: main: >>>>>> stage Data Validation Stage started <<<<<<]
+[2025-06-12 13:46:59,073: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-06-12 13:46:59,081: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-06-12 13:46:59,081: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-06-12 13:46:59,092: INFO: common: created directory at: artifacts]
+[2025-06-12 13:46:59,098: INFO: common: created directory at: artifacts/data_validation]
+[2025-06-12 13:46:59,179: INFO: main: >>>>>> stage Data Validation Stage completed <<<<<<
+
+x==========x]
+[2025-06-12 13:46:59,179: INFO: main: >>>>>> stage Data Transformation Stage started <<<<<<]
+[2025-06-12 13:46:59,187: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-06-12 13:46:59,187: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-06-12 13:46:59,195: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-06-12 13:46:59,195: INFO: common: created directory at: artifacts]
+[2025-06-12 13:46:59,195: INFO: common: created directory at: artifacts/data_transformation]
+[2025-06-12 13:46:59,195: ERROR: main: __init__() got an unexpected keyword argument 'config']
+Traceback (most recent call last):
+  File "C:\Users\vaibh\OneDrive\Desktop\full_model\main.py", line 34, in <module>
+    obj.main()
+  File "C:\Users\vaibh\OneDrive\Desktop\full_model\src\mlProject\pipeline\stage_03_data_transforamation.py", line 14, in main
+    data_transformation = DataTransformationConfig(config=data_transformation_config)
+TypeError: __init__() got an unexpected keyword argument 'config'
+[2025-06-12 13:55:39,056: INFO: main: >>>>>> stage Data Ingestion Stage started <<<<<<]
+[2025-06-12 13:55:39,072: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-06-12 13:55:39,072: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-06-12 13:55:39,072: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-06-12 13:55:39,072: INFO: common: created directory at: artifacts]
+[2025-06-12 13:55:39,072: INFO: common: created directory at: artifacts/data_ingestion]
+[2025-06-12 13:55:39,072: INFO: data_ingestion: File already exists at artifacts/data_ingestion/data.zip of size ~ 262 KB]
+[2025-06-12 13:55:39,093: INFO: data_ingestion: Extracted zip file to artifacts/data_ingestion]
+[2025-06-12 13:55:39,093: INFO: main: >>>>>> stage Data Ingestion Stage completed <<<<<<]
+[2025-06-12 13:55:39,093: INFO: main: >>>>>> stage Data Validation Stage started <<<<<<]
+[2025-06-12 13:55:39,105: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-06-12 13:55:39,105: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-06-12 13:55:39,112: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-06-12 13:55:39,112: INFO: common: created directory at: artifacts]
+[2025-06-12 13:55:39,117: INFO: common: created directory at: artifacts/data_validation]
+[2025-06-12 13:55:39,200: INFO: main: >>>>>> stage Data Validation Stage completed <<<<<<
+
+x==========x]
+[2025-06-12 13:55:39,200: INFO: main: >>>>>> stage Data Transformation Stage started <<<<<<]
+[2025-06-12 13:55:39,201: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-06-12 13:55:39,201: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-06-12 13:55:39,210: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-06-12 13:55:39,210: INFO: common: created directory at: artifacts]
+[2025-06-12 13:55:39,216: INFO: common: created directory at: artifacts/data_transformation]
+[2025-06-12 13:55:39,218: ERROR: main: __init__() got an unexpected keyword argument 'config']
+Traceback (most recent call last):
+  File "C:\Users\vaibh\OneDrive\Desktop\full_model\main.py", line 34, in <module>
+    obj.main()
+  File "C:\Users\vaibh\OneDrive\Desktop\full_model\src\mlProject\pipeline\stage_03_data_transforamation.py", line 14, in main
+    data_transformation = DataTransformationConfig(config=data_transformation_config)
+TypeError: __init__() got an unexpected keyword argument 'config'
+[2025-06-12 13:56:04,972: INFO: main: >>>>>> stage Data Ingestion Stage started <<<<<<]
+[2025-06-12 13:56:04,988: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-06-12 13:56:05,006: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-06-12 13:56:05,009: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-06-12 13:56:05,012: INFO: common: created directory at: artifacts]
+[2025-06-12 13:56:05,014: INFO: common: created directory at: artifacts/data_ingestion]
+[2025-06-12 13:56:05,015: INFO: data_ingestion: File already exists at artifacts/data_ingestion/data.zip of size ~ 262 KB]
+[2025-06-12 13:56:05,034: INFO: data_ingestion: Extracted zip file to artifacts/data_ingestion]
+[2025-06-12 13:56:05,034: INFO: main: >>>>>> stage Data Ingestion Stage completed <<<<<<]
+[2025-06-12 13:56:05,034: INFO: main: >>>>>> stage Data Validation Stage started <<<<<<]
+[2025-06-12 13:56:05,042: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-06-12 13:56:05,042: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-06-12 13:56:05,050: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-06-12 13:56:05,054: INFO: common: created directory at: artifacts]
+[2025-06-12 13:56:05,054: INFO: common: created directory at: artifacts/data_validation]
+[2025-06-12 13:56:05,126: INFO: main: >>>>>> stage Data Validation Stage completed <<<<<<
+
+x==========x]
+[2025-06-12 13:56:05,126: INFO: main: >>>>>> stage Data Transformation Stage started <<<<<<]
+[2025-06-12 13:56:05,133: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-06-12 13:56:05,137: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-06-12 13:56:05,137: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-06-12 13:56:05,137: INFO: common: created directory at: artifacts]
+[2025-06-12 13:56:05,143: INFO: common: created directory at: artifacts/data_transformation]
+[2025-06-12 13:56:05,143: ERROR: main: __init__() missing 1 required positional argument: 'data_path']
+Traceback (most recent call last):
+  File "C:\Users\vaibh\OneDrive\Desktop\full_model\main.py", line 34, in <module>
+    obj.main()
+  File "C:\Users\vaibh\OneDrive\Desktop\full_model\src\mlProject\pipeline\stage_03_data_transforamation.py", line 14, in main
+    data_transformation = DataTransformationConfig(data_transformation_config)
+TypeError: __init__() missing 1 required positional argument: 'data_path'
+[2025-06-12 13:59:38,111: INFO: main: >>>>>> stage Data Ingestion Stage started <<<<<<]
+[2025-06-12 13:59:38,126: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-06-12 13:59:38,135: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-06-12 13:59:38,138: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-06-12 13:59:38,144: INFO: common: created directory at: artifacts]
+[2025-06-12 13:59:38,144: INFO: common: created directory at: artifacts/data_ingestion]
+[2025-06-12 13:59:38,144: INFO: data_ingestion: File already exists at artifacts/data_ingestion/data.zip of size ~ 262 KB]
+[2025-06-12 13:59:38,152: INFO: data_ingestion: Extracted zip file to artifacts/data_ingestion]
+[2025-06-12 13:59:38,152: INFO: main: >>>>>> stage Data Ingestion Stage completed <<<<<<]
+[2025-06-12 13:59:38,152: INFO: main: >>>>>> stage Data Validation Stage started <<<<<<]
+[2025-06-12 13:59:38,168: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-06-12 13:59:38,171: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-06-12 13:59:38,171: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-06-12 13:59:38,171: INFO: common: created directory at: artifacts]
+[2025-06-12 13:59:38,179: INFO: common: created directory at: artifacts/data_validation]
+[2025-06-12 13:59:38,238: INFO: main: >>>>>> stage Data Validation Stage completed <<<<<<
+
+x==========x]
+[2025-06-12 13:59:38,238: INFO: main: >>>>>> stage Data Transformation Stage started <<<<<<]
+[2025-06-12 13:59:38,251: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-06-12 13:59:38,251: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-06-12 13:59:38,261: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-06-12 13:59:38,261: INFO: common: created directory at: artifacts]
+[2025-06-12 13:59:38,266: INFO: common: created directory at: artifacts/data_transformation]
+[2025-06-12 13:59:38,266: ERROR: main: __init__() missing 1 required positional argument: 'data_path']
+Traceback (most recent call last):
+  File "C:\Users\vaibh\OneDrive\Desktop\full_model\main.py", line 34, in <module>
+    obj.main()
+  File "C:\Users\vaibh\OneDrive\Desktop\full_model\src\mlProject\pipeline\stage_03_data_transforamation.py", line 14, in main
+    data_transformation = DataTransformationConfig(data_transformation_config)
+TypeError: __init__() missing 1 required positional argument: 'data_path'
+[2025-06-12 14:06:37,764: INFO: main: >>>>>> stage Data Ingestion Stage started <<<<<<]
+[2025-06-12 14:06:37,764: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-06-12 14:06:37,778: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-06-12 14:06:37,787: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-06-12 14:06:37,792: INFO: common: created directory at: artifacts]
+[2025-06-12 14:06:37,792: INFO: common: created directory at: artifacts/data_ingestion]
+[2025-06-12 14:06:37,792: INFO: data_ingestion: File already exists at artifacts/data_ingestion/data.zip of size ~ 262 KB]
+[2025-06-12 14:06:37,809: INFO: data_ingestion: Extracted zip file to artifacts/data_ingestion]
+[2025-06-12 14:06:37,809: INFO: main: >>>>>> stage Data Ingestion Stage completed <<<<<<]
+[2025-06-12 14:06:37,809: INFO: main: >>>>>> stage Data Validation Stage started <<<<<<]
+[2025-06-12 14:06:37,823: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-06-12 14:06:37,823: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-06-12 14:06:37,834: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-06-12 14:06:37,834: INFO: common: created directory at: artifacts]
+[2025-06-12 14:06:37,841: INFO: common: created directory at: artifacts/data_validation]
+[2025-06-12 14:06:37,913: INFO: main: >>>>>> stage Data Validation Stage completed <<<<<<
+
+x==========x]
+[2025-06-12 14:06:37,913: INFO: main: >>>>>> stage Data Transformation Stage started <<<<<<]
+[2025-06-12 14:06:37,921: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-06-12 14:06:37,928: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-06-12 14:06:37,929: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-06-12 14:06:37,929: INFO: common: created directory at: artifacts]
+[2025-06-12 14:06:37,929: INFO: common: created directory at: artifacts/data_transformation]
+[2025-06-12 14:06:37,974: INFO: data_transformation: Data loaded successfully.]
+[2025-06-12 14:06:38,007: INFO: data_transformation: Encoded column: Surname]
+[2025-06-12 14:06:38,011: INFO: data_transformation: Encoded column: Geography]
+[2025-06-12 14:06:38,020: INFO: data_transformation: Encoded column: Gender]
+[2025-06-12 14:06:38,043: INFO: data_transformation: Numerical features scaled.]
+[2025-06-12 14:06:38,345: INFO: data_transformation: Data split into train and test sets.]
+[2025-06-12 14:06:38,345: INFO: data_transformation: Train shape: (8000, 14)]
+[2025-06-12 14:06:38,345: INFO: data_transformation: Test shape: (2000, 14)]
+[2025-06-12 14:06:38,345: INFO: main: >>>>>> stage Data Transformation Stage completed <<<<<<
+
+x==========x]
+[2025-06-12 14:06:38,345: INFO: main: >>>>>> stage Model Training Stage started <<<<<<]
+[2025-06-12 14:06:38,345: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-06-12 14:06:38,345: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-06-12 14:06:38,362: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-06-12 14:06:38,362: INFO: common: created directory at: artifacts]
+[2025-06-12 14:06:38,367: INFO: common: created directory at: artifacts/model_trainer]
+[2025-06-12 14:06:38,542: INFO: main: >>>>>> stage Model Training Stage completed <<<<<<
+
+x==========x]
